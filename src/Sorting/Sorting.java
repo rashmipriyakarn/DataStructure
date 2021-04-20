@@ -1,3 +1,5 @@
+package Sorting;
+
 public class Sorting {
      int  Sort(int[] Arr1) {
         //int[] Arr1 = new int[6];

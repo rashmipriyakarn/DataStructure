@@ -1,3 +1,5 @@
+package ArrayProg;
+
 // Delete an element from an Array
 public class Array6 {
     public static void main(String[] args) {

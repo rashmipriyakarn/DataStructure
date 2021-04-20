@@ -1,3 +1,5 @@
+package ArrayProg;
+
 import java.util.Scanner;
 
 public class Array8 {

@@ -1,3 +1,5 @@
+package Sorting;
+
 public class InsertionSort {
     void Insertion(int[] Arr){
           int i=1, j=0, temp;

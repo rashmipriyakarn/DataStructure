@@ -1,3 +1,5 @@
+package ArrayProg;
+
 //Compute Sum and Average of Array Elements
 public class Array4 {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Basic;
+
 import java.util.Scanner;
 
 public class ScannerTest {
@@ -6,7 +8,7 @@ public class ScannerTest {
         int num;
         Scanner s1 = new Scanner(System.in);
         //n => how many numbers
-        System.out.println("Enter Number");
+        System.out.println("Enter Basic.Number");
         n = s1.nextInt(); //this is similar to scanf in c , here n is initialized
         System.out.println("user enter: " + n);
         for(int i =1; i<=n;i++){

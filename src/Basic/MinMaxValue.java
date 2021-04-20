@@ -1,3 +1,5 @@
+package Basic;
+
 import java.util.Scanner;
 /*Incase of finding max value among a set of numbers we will be taking max =Integer.MIN_VALUE
 Integer.Min_VALUE is defined in object class and its value is -infinity and vice-versa.

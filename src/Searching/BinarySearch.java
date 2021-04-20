@@ -1,5 +1,4 @@
-//Binary Search
-import java.util.Scanner;
+package Searching;//Binary Search
 
 public class BinarySearch {
         public  int Search(int[] Arr1, int num) {

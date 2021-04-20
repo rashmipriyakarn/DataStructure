@@ -1,4 +1,4 @@
-// Delete an element from an Array
+package ArrayProg;// Delete an element from an Array
 import java.util.Scanner;
 
 // Delete an element from an Array

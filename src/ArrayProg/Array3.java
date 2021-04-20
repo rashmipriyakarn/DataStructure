@@ -1,3 +1,5 @@
+package ArrayProg;
+
 public class Array3 {
     public static void main(String[] args) {
         String[] s1={"PAtna", "gya","Ranchi"};

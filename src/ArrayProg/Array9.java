@@ -1,4 +1,4 @@
-//Insert element
+package ArrayProg;//Insert element
 import java.util.Scanner;
 
 public class Array9 {

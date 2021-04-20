@@ -1,3 +1,5 @@
+package ArrayProg;
+
 public class Array2 {
     public static void main(String[] args) {
         String[] name ={"Ravi", "Satish", "Roma", "Richa", "Suresh"};

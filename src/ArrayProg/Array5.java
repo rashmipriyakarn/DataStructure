@@ -1,3 +1,5 @@
+package ArrayProg;
+
 //copy elements of array to another array
 public class Array5 {
     public static void main(String[] args) {

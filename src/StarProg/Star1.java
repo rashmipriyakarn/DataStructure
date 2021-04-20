@@ -1,3 +1,5 @@
+package StarProg;
+
 import java.util.Scanner;
 
 /*  ******
